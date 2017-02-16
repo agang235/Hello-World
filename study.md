@@ -37,6 +37,7 @@ $ git init //执行这一条以后就会生成一个.git目录
 
 12. git status 查看仓库状态
 
+13. git diff 查看工作树和暂缓区的差别
 
 
 
