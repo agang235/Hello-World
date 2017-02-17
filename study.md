@@ -39,8 +39,9 @@ $ git init //执行这一条以后就会生成一个.git目录
 
 13. git diff 查看工作树和暂缓区的差别
 
+14. git checkout master 切换分支
 
-
+15. git chaeckout - 切换到上一分支
 
 
 
