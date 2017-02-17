@@ -40,8 +40,9 @@ $ git init //执行这一条以后就会生成一个.git目录
 13. git diff 查看工作树和暂缓区的差别
 
 
+14. git branch 显示分支(*号表示当前所在的分支)
 
-
+15. git checkout master 切换分支
 
 
 
