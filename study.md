@@ -43,11 +43,4 @@ $ git init //执行这一条以后就会生成一个.git目录
 
 15. git chaeckout - 切换到上一分支
 
-
-
-
-
-
-
-
-
+16. git reset --merge  退回到合并以前,一般在合并出现冲突时退回
